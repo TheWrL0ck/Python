@@ -1,1 +1,1 @@
-"Python codes for quick reference and as cheet sheet" 
+"Core Concepts of Python for using later as a quick reference and cheet sheet" 
